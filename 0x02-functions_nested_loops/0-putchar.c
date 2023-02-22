@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * main - main function
- * _putchar: print putchar
- * return: always 0
+ * main - Entry space
+ * Return: (0) sucess
  */
 
 int main(void)
@@ -18,3 +17,4 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
+
